@@ -7,6 +7,7 @@ This repository is a place to store my practice with algorithms and data structu
 **Running list of algorithms implemented:**
 
 - Merge sort
+- Anagram detector
 
 ***
 
