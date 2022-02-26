@@ -8,6 +8,12 @@ This repository is a place to store my practice with algorithms and data structu
 
 - Merge sort
 - Anagram detector
+- Base converter
+- Balaced symbols checker
+
+**Helper Classes (the** `data_structures` **module)**:
+
+- Stack
 
 ***
 
