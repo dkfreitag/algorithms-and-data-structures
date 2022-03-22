@@ -21,3 +21,24 @@ class Stack:
     
     def size(self):
         return len(self.items)
+
+
+# implementation of a Queue class using a list
+
+class Queue:
+    def __init__(self):
+        self.items = []
+    
+    def isEmpty(self):
+        return self.items == []
+    
+    # inserts an item at the "front" of the list
+    def enqueue(self, item):
+        self.items.insert(0, item)
+    
+    # pops the last item off the end of the list
+    def dequeue(self):
+        return self.items.pop()
+
+    def size(self):
+        return len(self.items)

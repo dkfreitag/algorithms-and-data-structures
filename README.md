@@ -14,6 +14,7 @@ This repository is a place to store my practice with algorithms and data structu
 **Helper Classes (the** `data_structures` **module)**:
 
 - Stack
+- Queue
 
 ***
 
